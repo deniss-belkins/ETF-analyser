@@ -5,7 +5,7 @@ Analyse underlying stock shares in your portfolio containing multiple ETFs
 
 pip install dash plotly pandas
 
-- Prepare a csv file containing following data about your ETF, see below.
+- Prepare a csv file containing following data about your ETF, see an example below.
 
 - Copy python script to your local folder, in your console terminal navigate to that folder, run:
 
