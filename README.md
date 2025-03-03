@@ -32,6 +32,8 @@ Users should be aware that:
 BY USING THIS TOOL, YOU ACKNOWLEDGE AND ACCEPT THAT WE BEAR NO LIABILITY FOR ANY LOSS OR DAMAGE ARISING FROM ITS USE.
 
 
+
+
 |ETF |Stock|Name                                 |Share|
 |----|-----|-------------------------------------|-----|
 |CNDX|ADBE |ADOBE INC                            |1.22 |
