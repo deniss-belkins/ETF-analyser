@@ -1,19 +1,19 @@
-# ETF-analyser
+# ETF Portfolio Analyser
 Analyse underlying stock shares in your portfolio containing multiple ETFs
 
-• Install dependencies:
+- Install dependencies:
 
 pip install dash plotly pandas
 
-• Prepare a csv file containing following data about your ETF, see below.
+- Prepare a csv file containing following data about your ETF, see below.
 
-• Copy python script to your local folder, in your console terminal navigate to that folder, run:
+- Copy python script to your local folder, in your console terminal navigate to that folder, run:
 
 python.exe .\etf_analyser.py
 
-• In your browser, open [http://localhost:8050](http://127.0.0.1:8050/)
+- In your browser, open [http://localhost:8050](http://127.0.0.1:8050/)
 
-• Disclaimer: ETF Analyzer Tool
+- Disclaimer: ETF Analyzer Tool
 
 The ETF Analyzer tool is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the tool or the information it provides.
 
