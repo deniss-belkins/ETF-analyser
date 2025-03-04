@@ -13,7 +13,9 @@ python.exe .\etf_analyser.py
 
 - In your browser, open [http://localhost:8050](http://127.0.0.1:8050/)
 
-- Disclaimer: ETF Analyzer Tool
+
+
+DISCLAIMER
 
 The ETF Analyzer tool is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the tool or the information it provides.
 
