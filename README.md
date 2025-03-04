@@ -17,7 +17,7 @@ python.exe .\etf_analyser.py
 
 DISCLAIMER
 
-The ETF Analyzer tool is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the tool or the information it provides.
+The ETF Portfolio Analyser is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the tool or the information it provides.
 
 Users should be aware that:
 
